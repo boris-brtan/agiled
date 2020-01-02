@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/agiled/static/css/main.bf3b739f.chunk.css",
+    "main.js": "/agiled/static/js/main.7b3e54b1.chunk.js",
+    "main.js.map": "/agiled/static/js/main.7b3e54b1.chunk.js.map",
+    "runtime-main.js": "/agiled/static/js/runtime-main.4089214a.js",
+    "runtime-main.js.map": "/agiled/static/js/runtime-main.4089214a.js.map",
+    "static/js/2.81049317.chunk.js": "/agiled/static/js/2.81049317.chunk.js",
+    "static/js/2.81049317.chunk.js.map": "/agiled/static/js/2.81049317.chunk.js.map",
+    "index.html": "/agiled/index.html",
+    "precache-manifest.8cf8256111e00cc601fa2e55569116b4.js": "/agiled/precache-manifest.8cf8256111e00cc601fa2e55569116b4.js",
+    "service-worker.js": "/agiled/service-worker.js",
+    "static/css/main.bf3b739f.chunk.css.map": "/agiled/static/css/main.bf3b739f.chunk.css.map",
+    "static/js/2.81049317.chunk.js.LICENSE": "/agiled/static/js/2.81049317.chunk.js.LICENSE",
+    "static/media/alarm.mp3": "/agiled/static/media/alarm.c97ce8b0.mp3",
+    "static/media/tick.mp3": "/agiled/static/media/tick.9c808491.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4089214a.js",
+    "static/js/2.81049317.chunk.js",
+    "static/css/main.bf3b739f.chunk.css",
+    "static/js/main.7b3e54b1.chunk.js"
+  ]
+}
