@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/agiled/static/css/main.bf3b739f.chunk.css",
-    "main.js": "/agiled/static/js/main.fcccb28a.chunk.js",
-    "main.js.map": "/agiled/static/js/main.fcccb28a.chunk.js.map",
+    "main.js": "/agiled/static/js/main.602948ba.chunk.js",
+    "main.js.map": "/agiled/static/js/main.602948ba.chunk.js.map",
     "runtime-main.js": "/agiled/static/js/runtime-main.4089214a.js",
     "runtime-main.js.map": "/agiled/static/js/runtime-main.4089214a.js.map",
     "static/js/2.2d4e21fd.chunk.js": "/agiled/static/js/2.2d4e21fd.chunk.js",
     "static/js/2.2d4e21fd.chunk.js.map": "/agiled/static/js/2.2d4e21fd.chunk.js.map",
     "index.html": "/agiled/index.html",
-    "precache-manifest.66f80038f0a50502746d76d699eba363.js": "/agiled/precache-manifest.66f80038f0a50502746d76d699eba363.js",
+    "precache-manifest.ea027b2355893b67f12528c2c9f77df3.js": "/agiled/precache-manifest.ea027b2355893b67f12528c2c9f77df3.js",
     "service-worker.js": "/agiled/service-worker.js",
     "static/css/main.bf3b739f.chunk.css.map": "/agiled/static/css/main.bf3b739f.chunk.css.map",
     "static/js/2.2d4e21fd.chunk.js.LICENSE": "/agiled/static/js/2.2d4e21fd.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4089214a.js",
     "static/js/2.2d4e21fd.chunk.js",
     "static/css/main.bf3b739f.chunk.css",
-    "static/js/main.fcccb28a.chunk.js"
+    "static/js/main.602948ba.chunk.js"
   ]
 }
