@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ea8435677d6cdcc6d7bee3259b78529",
+    "revision": "025f5ddaa9375983f3910f5046ffac75",
     "url": "/agiled/index.html"
   },
   {
-    "revision": "005ec02fd71c706efd57",
-    "url": "/agiled/static/css/main.bf3b739f.chunk.css"
+    "revision": "5dd2444846b396245865",
+    "url": "/agiled/static/css/main.5145eb5a.chunk.css"
   },
   {
-    "revision": "d8652d09c3471863e699",
-    "url": "/agiled/static/js/2.2d4e21fd.chunk.js"
+    "revision": "e1aaa928c5b59b4a5c86",
+    "url": "/agiled/static/js/2.ebb9aadd.chunk.js"
   },
   {
     "revision": "b51e62edbcf7a9c4f4ad13f506021d3e",
-    "url": "/agiled/static/js/2.2d4e21fd.chunk.js.LICENSE"
+    "url": "/agiled/static/js/2.ebb9aadd.chunk.js.LICENSE"
   },
   {
-    "revision": "005ec02fd71c706efd57",
-    "url": "/agiled/static/js/main.602948ba.chunk.js"
+    "revision": "5dd2444846b396245865",
+    "url": "/agiled/static/js/main.f8aaf4bf.chunk.js"
   },
   {
     "revision": "a473761597438fc7bcbd",
