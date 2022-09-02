@@ -54,6 +54,7 @@ const useStyles = makeStyles((theme) => createStyles({
                     repeating-linear-gradient(-45deg, transparent, transparent 5px, ${theme.palette.action.selected} 6px, transparent 7px),
                     repeating-linear-gradient(45deg, transparent, transparent 5px,  ${theme.palette.action.selected} 6px, transparent 7px)
                 `,
+                backfaceVisibility: 'hidden',
             }
         },
         'visible': {
