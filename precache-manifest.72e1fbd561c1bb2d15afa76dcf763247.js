@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "025f5ddaa9375983f3910f5046ffac75",
+    "revision": "f3b6ff4f560280bb3357fd5c43c99e7e",
     "url": "/agiled/index.html"
   },
   {
-    "revision": "5dd2444846b396245865",
+    "revision": "407ac4cbbf74680f0c4e",
     "url": "/agiled/static/css/main.5145eb5a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agiled/static/js/2.ebb9aadd.chunk.js.LICENSE"
   },
   {
-    "revision": "5dd2444846b396245865",
-    "url": "/agiled/static/js/main.f8aaf4bf.chunk.js"
+    "revision": "407ac4cbbf74680f0c4e",
+    "url": "/agiled/static/js/main.5b8100ff.chunk.js"
   },
   {
     "revision": "a473761597438fc7bcbd",
